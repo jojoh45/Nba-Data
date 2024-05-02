@@ -4,11 +4,6 @@
 
 This project involves building a website using the Express/Node.js platform, with the Axios HTTP client, to integrate a chosen public API from the provided list. The selected API for this project is the balldontlie API. The website will interact with the balldontlie API, retrieve relevant data, and present it in a user-friendly manner.
 
-## Project Requirements
-- **Platform:** Express/Node.js
-- **HTTP Client:** Axios
-- **Public API:** balldontlie API
-
 ## Features
 - **API Integration:** The website interacts with the balldontlie API to fetch data related to basketball.
 - **Data Presentation:** Retrieved data is presented in a user-friendly manner on the website.
