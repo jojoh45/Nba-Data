@@ -16,12 +16,10 @@ This project involves building a website using the Express/Node.js platform, wit
 - **HTML/CSS:** Used for structuring the web pages and styling the website.
 
 ## Installation
-
 1. Clone the repository: git clone https://github.com/yourusername/express-api-website.git
-2. Navigate to the project directory: cd express-api-website
-3. Install dependencies: npm install
-4. Start the server: npm start
-5. Open your web browser and go to http://localhost:3000 to view the website.
+2. Install dependencies: npm install
+3. Start the server: nodemon index.js
+4. Open your web browser and go to http://localhost:3000 to view the website.
 
 ## Usage
 - Explore the website to interact with the balldontlie API and view basketball-related data.
